@@ -1,0 +1,36 @@
+# Dataset
+ds_rate: 4
+dataset_name: 'lara'
+train_vids_file: 'Datasets/LARA/splits/train.split1.bundle'
+test_vids_file: 'Datasets/LARA/splits/test.split1.bundle'
+channel: 12
+num_classes: 8
+gt_path: 'Datasets/LARA/gt_arr/'
+gt_bound_path: 'Datasets/LARA/gt_boundary_arr/'
+feature_path: 'Datasets/LARA/features/'
+joint_num: 19
+feature_type: 'new'
+segment_num: 64
+
+# hyper
+learning_rate: 0.0005
+period_epoch: 1
+num_epochs: 120
+batch_size: 3
+
+# Spatial
+feat_dim: 8
+spatial_dil: [1,2,4,8,16,32,64,128,256,512]
+graph_layout: 'lara'
+graph_strategy: 'spatial'
+spatial_filters: 64
+edge_importance_weighting: True
+
+# Temporal
+num_stages: 4
+num_f_maps: 64
+num_layers: 10
+temporal_dil: [1,2,4,8,16,32,64,128,256,512]
+
+
+
