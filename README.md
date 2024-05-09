@@ -143,7 +143,4 @@ We extend our gratitude to the authors for openly sharing their code and dataset
 ## License
 This repository is released under the [MIT](https://choosealicense.com/licenses/mit/) License.
 
-## Contact
-If you have any further inquiries, please feel free to email Haoyu Ji at `jihaoyu1224@gmail.com`. We will respond within a few days.
-
 
