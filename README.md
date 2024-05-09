@@ -33,12 +33,12 @@ pip install -r requirements.txt
 ### Datasets
 This study conducted experiments on five publicly available datasets: LARa, HuGaDB, TCG, PKU-MMD (X-sub), and PKU-MMD (X-view). 
 All datasets are downloadable from 
-[GoogleDrive](https://drive.google.com/file/d/1TB5UJUKQfvaFWYEETEmOnJs4rYgwnyWW/view?usp=sharing) or [BaiduNetdisk](https://pan.baidu.com/s/1earzJYm-QqxbZU6uEqukXA?pwd=1234) (~3.7GB).
+[GoogleDrive](https://drive.google.com/file/d/1TB5UJUKQfvaFWYEETEmOnJs4rYgwnyWW/view?usp=sharing) (~3.7GB).
 
 ### Pretrained Models
 
 Pretrained models of ME-ST, both without the BRB branch and with the BRB branch, on the five datasets are available for download from 
-[GoogleDrive](https://drive.google.com/file/d/1QD0PlfS38WwoXORMcuAcZ5pNZCo-FAsQ/view?usp=sharing) or [BaiduNetdisk](https://pan.baidu.com/s/1FPD01k4ioWBHhsHFe5AXhg?pwd=1234).(~218MB).
+[GoogleDrive](https://drive.google.com/file/d/1QD0PlfS38WwoXORMcuAcZ5pNZCo-FAsQ/view?usp=sharing) (~218MB).
 
 ### Folder Structure
 Orgnize the pretrained model and dataset folder in the following structure (**Note**: please check it carefully):
